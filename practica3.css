@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 224, 229);
+}
+caption{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+thead{
+    background-color: rgb(222, 200, 245);
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: ;
+    padding: 5px;
+}
+.fondorosa{
+    background-color: rgb(250, 179, 202);
+}

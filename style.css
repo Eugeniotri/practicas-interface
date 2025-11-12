@@ -1,0 +1,44 @@
+html, body{
+    height: 100%;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor{
+    
+    border:5px solid black;
+    width:300px;
+    position: relative;
+    
+    
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color:white;
+    /*border: 1px solid black;*/
+}
+.caja-1{
+    background-color: red;
+
+}
+.caja-2{
+    background-color: green;
+}
+.caja-3{
+    background-color: blueviolet;
+}
+.caja-4{
+    background-color: rgb(80, 130, 223);
+}
+.caja-5{
+    background-color: orangered;
+}
+.caja-6{
+    background-color: gray;
+}

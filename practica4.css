@@ -1,0 +1,45 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(205, 254, 247);
+   border: solid orange;
+    padding: 10px;
+    height:100vh;
+    margin:0;
+    
+}
+
+
+
+table {
+    border: 3px solid gray;
+    border-collapse: collapse;
+    width: 390px;
+    height: ;
+    
+    
+    
+    
+}
+td,th{
+    border: 3px solid gray;
+}
+td:nth-child(even){
+    background-color: orange;
+}
+td:nth-child(odd){
+    background-color: red
+    ;
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+h1{
+    text-align: center;
+    border: 1px solid black;
+    background-color: burlywood;
+    margin-bottom: 0;
+}

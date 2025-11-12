@@ -1,0 +1,18 @@
+h1::first-letter{
+    color: green;
+}
+
+h1{ 
+    text-align: center;
+    border: 3px  solid black;
+    padding: 5px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.color_rosa{
+    color:purple;
+}
+.color_blue{
+    color: rgb(13, 182, 211);
+}

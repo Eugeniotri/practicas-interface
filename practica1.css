@@ -1,0 +1,14 @@
+body{
+    background-color:white;
+}
+h1{
+    text-align: right;
+    border: 3px solid black;
+}
+.texto_azul{
+    color:blue;
+
+}
+.texto_rojo{
+    color: red;
+}
